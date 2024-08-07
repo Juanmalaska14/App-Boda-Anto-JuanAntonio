@@ -30,7 +30,7 @@ a {
     font-size: 14px;
     font-family: 'Abhaya Libre',Georgia,"Times New Roman",serif!important;
     font-weight: 600!important;
-    background-color: #b0d5c6;
+    background-color: #834f23;
     width: 50%;
     /* -webkit-text-stroke: 0.5px black; */
 }
@@ -75,12 +75,12 @@ section{
   display: flex;
   justify-content: center;
     width: 60%;
-    border-top-color: #648d7d;
+    border-top-color: #834f23;
     border-top-width: 1px;
 }
 .linea{
     width: 70%;
-    border-top-color: #648d7d;
+    border-top-color: #834f23;
     border-top-width: 1px;
     margin-left: 3.5rem;
 }
@@ -102,7 +102,7 @@ section{
 .formulario {
     display: flex;
     flex-direction: column;
-    background-color: #b0d5c6;
+    background-color: #834f23;
     height: 100%;
     align-items: center;
     padding-top: 2rem;
@@ -282,7 +282,7 @@ section{
   
   .button{
     border-radius: 10px;
-    color:#49a07d;
+    color:#834f23;
     width: 8rem;
     border: none;
     height: 3rem;
